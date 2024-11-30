@@ -8,7 +8,7 @@ macos常用软件、开发工具，免费破解版。
 # 科学上网
 
 - 稳定靠谱便宜的科学上网、翻墙工具，[下载地址](https://cgfw.top/vpn.html)
-- 小白也能轻松上手的vpn搭建教程，每月仅需7￥，搭建一个自己的专属VPN，[下载地址](https://cgfw.top/selfvpn.html)
+- 小白也能轻松上手的vpn搭建教程，每月仅需7￥，搭建一个自己的专属VPN，[教程地址](https://cgfw.top/selfvpn.html)
 
 # 开发工具
 
