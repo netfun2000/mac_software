@@ -20,9 +20,6 @@ cat <<EOL > $config_file
 }
 EOL
 
-echo "端口(port): $port"
-echo "密码(password): $key"
-
 SERVICE_FILE="/etc/systemd/system/shadowsocks.service"
 SSSERVER_CMD="/opt/shadowsocks/ssserver -c /opt/shadowsocks/config.json"
 
@@ -45,3 +42,10 @@ systemctl daemon-reload
 systemctl enable shadowsocks.service
 
 systemctl start shadowsocks.service
+
+ip=$(ifconfig eth0 | grep 'inet ' | awk '{print $2}')
+
+echo "ip: $ip"
+echo "端口(port): $port"
+echo "密码(password): $key"
+echo "服务器URL: ss://$key=@$ip:$port/?#cloudcone"
