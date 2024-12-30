@@ -16,7 +16,7 @@ macos常用软件、开发工具，免费破解版。
 
 ## 编辑器
 
-- 2024年12月最新jetbrains全家桶(IntelliJ IDEA、Goland、Webstorm、Pycharm)免费破解激活全教程，支持Macos、Windows、Linux。[教程地址](https://www.zybuluo.com/swordsman-ji/note/2567592)
+- 2025年1月最新jetbrains全家桶(IntelliJ IDEA、Goland、Webstorm、Pycharm)免费破解激活全教程，支持Macos、Windows、Linux。[教程地址](https://www.zybuluo.com/swordsman-ji/note/2567592)
 
 ## 数据库
 
