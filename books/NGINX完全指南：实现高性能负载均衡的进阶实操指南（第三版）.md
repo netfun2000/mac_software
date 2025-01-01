@@ -3,7 +3,7 @@ NGINX完全指南：实现高性能负载均衡的进阶实操指南（第三版
 
 <font  color="#22c55e" size="4">适读人群 ：运维、高级开发、架构师</font>
 
-[<font color="#3b82f6" size="5"><b><u>点击原文去下载</u></b></font>](https://goldenhouse.cgfw.top/book/a1b520655c8b4b8ca4186190bbef08ac)
+[<font color="#3b82f6" size="5"><b><u>点击原文去下载</u></b></font>](https://book.cgfw.top/book/a1b520655c8b4b8ca4186190bbef08ac)
 
 ![NGINX完全指南：实现高性能负载均衡的进阶实操指南（第三版）封面图](https://book.cgfw.top/image/cover/a1b520655c8b4b8ca4186190bbef08ac.jpg)
 
