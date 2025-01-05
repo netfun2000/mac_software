@@ -5,8 +5,7 @@ Effective Java中文版（原书第3版）PDF、EPUB免费下载
 
 <font contenteditable="true">Jolt获奖作品全新升级，与《Java编程思想》和《Java核心技术》齐名，针对Java7、8、9全面更新，附赠额外的项目源码和文档以及对应的视频讲解。</font>
 
-
-[<font color="#3b82f6" size="5"><b><u>点击原文去下载</u></b></font>](https://pdfs.top/book/Effective Java中文版（原书第3版）.html)
+[<font color="#3b82f6" size="5"><b><u>点击原文去下载</u></b></font>](<https://pdfs.top/book/Effective Java中文版（原书第3版）.html>)
 
 ![Effective Java中文版（原书第3版）封面图](https://pdfs.top/image/cover/f1c6aa1a3fb243c9b777cdb7522c9baa.jpg)
 
