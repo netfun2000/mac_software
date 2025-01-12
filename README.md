@@ -29,11 +29,11 @@ macos常用软件、开发工具，免费破解版。
 
 # 电子书
 ## 计算机
-- [Effective Java中文版（原书第3版）](https://pdfs.top/book/Effective%20Java中文版（原书第3版）.html)
-- [重构：改善既有代码的设计（第2版）](https://pdfs.top/book/重构：改善既有代码的设计（第2版）.html)
-- [Spring Boot 3核心技术与最佳实践](https://pdfs.top/book/Spring%20Boot%203核心技术与最佳实践.html)
-- [Effective Java中文版（原书第3版）](https://pdfs.top/book/Effective%20Java中文版（原书第3版）.html)
-- [深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）](https://pdfs.top/book/深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）.html)
-- [深入理解计算机系统（原书第3版）](https://pdfs.top/book/fde30f19e55d4af781ac2e912a675e2c)
-- [Java核心技术·卷 II（原书第11版）](https://pdfs.top/book/Java核心技术·卷%20II（原书第11版）：高级特性.html)
-- [Head First 设计模式（中文版）](https://pdfs.top/book/Head%20First%20设计模式（中文版）.html)
+- [Effective Java中文版（原书第3版）PDF](https://pdfs.top/book/Effective%20Java中文版（原书第3版）.html)
+- [重构：改善既有代码的设计（第2版）PDF](https://pdfs.top/book/重构：改善既有代码的设计（第2版）.html)
+- [Spring Boot 3核心技术与最佳实践 PDF](https://pdfs.top/book/Spring%20Boot%203核心技术与最佳实践.html)
+- [Effective Java中文版（原书第3版）PDF](https://pdfs.top/book/Effective%20Java中文版（原书第3版）.html)
+- [深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）PDF](https://pdfs.top/book/深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）.html)
+- [深入理解计算机系统（原书第3版）PDF](https://pdfs.top/book/fde30f19e55d4af781ac2e912a675e2c)
+- [Java核心技术·卷 II（原书第11版）PDF](https://pdfs.top/book/Java核心技术·卷%20II（原书第11版）：高级特性.html)
+- [Head First 设计模式（中文版）PDF](https://pdfs.top/book/Head%20First%20设计模式（中文版）.html)
