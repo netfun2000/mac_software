@@ -27,6 +27,10 @@ macos常用软件、开发工具，免费破解版。
 - Adobe PhotoShop(26.0) MacOS 中文破解版， Adobe PhotoShop(26.0) MacOS 中文破解版， Adobe PhotoShop(26.0) MacOS 中文破解版， Adobe PhotoShop(26.0) MacOS 中文破解版，[下载地址](https://cgfw.top/photoshop.html)
 - Sketch 101.6 一款适用于 Mac 的矢量设计工具，专注于屏幕设计。 [下载地址](https://pan.quark.cn/s/00308d1bbcfa)(提取码：cSum)
 
+## Adobe全家桶
+
+- **Adobe Acrobat Pro**，Adobe Acrobat Pro DC2024.005.20320，PDF编辑工具，史上功能最强大的PDF工具，[下载地址](https://pan.quark.cn/s/16cc16b83953)(提取码：nHxs)
+
 # 电子书
 ## 计算机
 - [Effective Java中文版（原书第3版）PDF](https://pdfs.top/book/Effective%20Java中文版（原书第3版）.html)
