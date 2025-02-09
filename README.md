@@ -44,5 +44,7 @@ macos常用软件、开发工具，免费破解版。
 - [Java核心技术·卷 II（原书第11版）PDF](https://pdfs.top/book/Java核心技术·卷%20II（原书第11版）：高级特性.html)
 - [Head First 设计模式（中文版）PDF](https://pdfs.top/book/Head%20First%20设计模式（中文版）.html)
 
+- [程序是怎样跑起来的（第3版）PDF/EPUB](https://pdfs.top/book/程序是怎样跑起来的（第3版）.html)
+
 ### 更多海量书籍
 - [金屋搜索](https://pdfs.top)
