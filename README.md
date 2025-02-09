@@ -46,5 +46,9 @@ macos常用软件、开发工具，免费破解版。
 
 - [程序是怎样跑起来的（第3版）PDF/EPUB](https://pdfs.top/book/程序是怎样跑起来的（第3版）.html)
 
+### 人工智能
+
+- [Deepseek从入门到精通的PDF版本，清华大学新闻与传播学院 新媒体研究中心 元宇宙文化实验室](https://pdfs.top/book/DeepSeek从入门到精通.html)
+
 ### 更多海量书籍
 - [金屋搜索](https://pdfs.top)
