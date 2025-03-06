@@ -6,7 +6,8 @@ wget https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.21.2/s
 
 tar -xvf shadowsocks-v1.21.2.x86_64-unknown-linux-gnu.tar.xz
 
-key=$(./ssservice genkey -m "aes-256-gcm")
+method="aes-256-gcm"
+password=$(./ssservice genkey -m "$method")
 port=9999
 
 config_file="config.json"
@@ -15,8 +16,8 @@ cat <<EOL > $config_file
 {
     "server": "0.0.0.0",
     "server_port": $port,
-    "password": "$key",
-    "method": "aes-256-gcm"
+    "password": "$password",
+    "method": "$method"
 }
 EOL
 
@@ -38,14 +39,18 @@ Environment=PYTHONUNBUFFERED=1
 WantedBy=multi-user.target" > $SERVICE_FILE
 
 systemctl daemon-reload
-
+systemctl start shadowsocks.service
 systemctl enable shadowsocks.service
 
-systemctl start shadowsocks.service
+ip=$(hostname -I | awk '{print $1}')
 
-ip=$(ifconfig eth0 | grep 'inet ' | awk '{print $2}')
+base64_credentials=$(echo -n "$method:$password" | base64 -w 0)
+server_url="ss://$base64_credentials@$ip:$port#cloudcone"
 
-echo "ip: $ip"
-echo "端口(port): $port"
-echo "密码(password): $key"
-echo "服务器URL: ss://$key=@$ip:$port/?#cloudcone"
+# 输出连接信息
+echo "Shadowsocks 服务器信息："
+echo "IP地址: $ip"
+echo "端口号: $port"
+echo "加密方式: $method"
+echo "密码: $password"
+echo "服务器URL: $server_url"
