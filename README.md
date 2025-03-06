@@ -20,7 +20,7 @@ macos常用软件、开发工具，免费破解版。
 
 ### 开发工具
 
-- 2025年1月最新jetbrains全家桶(IntelliJ IDEA、Goland、Webstorm、Pycharm)免费破解激活全教程，支持Macos、Windows、Linux。[教程地址](https://www.zybuluo.com/swordsman-ji/note/2567592)
+- 2025年3月最新jetbrains全家桶(IntelliJ IDEA、Goland、Webstorm、Pycharm)免费破解激活全教程，支持Macos、Windows、Linux。[教程地址](https://www.zybuluo.com/swordsman-ji/note/2567592)
 - Navicat Premium 最新版(17.1.5) MacOS 中文破解版，[下载地址](https://cgfw.top/navicatApp.html)
 
 ### 设计工具
@@ -49,6 +49,8 @@ macos常用软件、开发工具，免费破解版。
 ### 人工智能
 
 - [Deepseek从入门到精通的PDF版本，清华大学新闻与传播学院 新媒体研究中心 元宇宙文化实验室](https://pdfs.top/book/DeepSeek从入门到精通.html)
+- [清华大学DeepSeek资料全套官方完整版PDF+视频教程免费下载（持续更新）](https://pdfs.top/book/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6DeepSeek%E5%85%A8%E5%A5%97%E8%B5%84%E6%96%99%E5%AE%8C%E6%95%B4%E7%89%88.html)
+- [鸢尾花书系列全套（带书签）2025年3月更新：机器学习从入门到精通，豆瓣平均评分高达9.5+](https://pdfs.top/book/鸢尾花书系列：从加减乘除到机器学习.html)
 
 ### 更多海量书籍
 - [金屋搜索](https://pdfs.top)
