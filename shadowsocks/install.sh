@@ -47,7 +47,8 @@ ip=$(hostname -I | awk '{print $1}')
 base64_credentials=$(echo -n "$method:$password" | base64 -w 0)
 server_url="ss://$base64_credentials@$ip:$port#cloudcone"
 
-# 输出连接信息
+printf "\r\n\r\n"
+echo "######################### finish ################################"
 echo "Shadowsocks 服务器信息："
 echo "IP地址: $ip"
 echo "端口号: $port"
