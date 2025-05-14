@@ -2,9 +2,11 @@
 
 mkdir -p /opt/shadowsocks
 cd /opt/shadowsocks
-wget https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.21.2/shadowsocks-v1.21.2.x86_64-unknown-linux-gnu.tar.xz
+# wget https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.21.2/shadowsocks-v1.21.2.x86_64-unknown-linux-gnu.tar.xz
+wget https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.23.4/shadowsocks-v1.23.4.x86_64-unknown-linux-gnu.tar.xz
 
-tar -xvf shadowsocks-v1.21.2.x86_64-unknown-linux-gnu.tar.xz
+# tar -xvf shadowsocks-v1.21.2.x86_64-unknown-linux-gnu.tar.xz
+tar -xvf shadowsocks-v1.23.4.x86_64-unknown-linux-gnu.tar.xz
 
 method="aes-256-gcm"
 password=$(./ssservice genkey -m "$method")
